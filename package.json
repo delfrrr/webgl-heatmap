@@ -1,0 +1,19 @@
+{
+  "name": "webgl-heatmap",
+  "version": "1.0.0",
+  "description": "WebGL Heatmap =============",
+  "main": "webgl-heatmap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delfrrr/webgl-heatmap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/delfrrr/webgl-heatmap/issues"
+  },
+  "homepage": "https://github.com/delfrrr/webgl-heatmap#readme"
+}

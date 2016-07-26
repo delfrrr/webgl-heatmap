@@ -1033,7 +1033,7 @@
 
   })();
 
-  window.createWebGLHeatmap = function(params) {
+  module.exports = function(params) {
     return new WebGLHeatmap(params);
   };
 
